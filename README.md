@@ -17,6 +17,10 @@ and together we build something new that I’m proud of it.
 We’re dedicated to making it better everytime you defense your system.
 Thank you for making it part of your world.
 
+"YOjii-Katana is custom build from WordPress.
+***NOTICE TO DESCLAIMERS***
+-	 WP Plugins are not allowed in YOjii-Katana Modules.
+-	WP Themes are not allowed in YOjii-Katana Styles "
 
 Package Deployment: 1 Minute Installation
 Unzip the package in your path directory.
